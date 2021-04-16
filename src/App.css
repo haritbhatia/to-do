@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.toDoForm {
+  border: 2px dotted grey;
+  border-radius: 5%;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  background-color: snow;
+}
+
+.toDoTable {
+  table-layout:fixed;
+  width: 96%;
+  border: 2px dotted grey;
+  border-radius: 5%;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+.number {
+  width: 8%;
+}
